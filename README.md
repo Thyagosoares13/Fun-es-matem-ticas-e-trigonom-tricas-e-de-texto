@@ -1,1 +1,1 @@
-# Fun-es-matem-ticas-e-trigonom-tricas-e-de-texto
+#Funções matemáticas e trigonométricas e de texto
